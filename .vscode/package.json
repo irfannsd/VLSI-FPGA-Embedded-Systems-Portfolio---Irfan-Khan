@@ -1,0 +1,27 @@
+{
+  "name": "vlsi-fpga-embedded-systems-portfolio---irfan-khan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfannsd/VLSI-FPGA-Embedded-Systems-Portfolio---Irfan-Khan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/irfannsd/VLSI-FPGA-Embedded-Systems-Portfolio---Irfan-Khan/issues"
+  },
+  "homepage": "https://github.com/irfannsd/VLSI-FPGA-Embedded-Systems-Portfolio---Irfan-Khan#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^4.2.2"
+  }
+}
